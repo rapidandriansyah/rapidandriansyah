@@ -1,4 +1,4 @@
-![Rapid Andriansyah](img/github-header-banner%20(1).png)
+![Rapid Andriansyah](img/github-header-banner.png)
 
 #### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,php,laravel,cpp&theme=light)](https://skillicons.dev)
